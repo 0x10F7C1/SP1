@@ -1,0 +1,15 @@
+C:\Users\savic\OneDrive\Desktop\SP1\SistemskoProgramiranje1\SistemskoProgramiranje1\bin\Debug\net7.0\SistemskoProgramiranje1.exe
+C:\Users\savic\OneDrive\Desktop\SP1\SistemskoProgramiranje1\SistemskoProgramiranje1\bin\Debug\net7.0\SistemskoProgramiranje1.deps.json
+C:\Users\savic\OneDrive\Desktop\SP1\SistemskoProgramiranje1\SistemskoProgramiranje1\bin\Debug\net7.0\SistemskoProgramiranje1.runtimeconfig.json
+C:\Users\savic\OneDrive\Desktop\SP1\SistemskoProgramiranje1\SistemskoProgramiranje1\bin\Debug\net7.0\SistemskoProgramiranje1.dll
+C:\Users\savic\OneDrive\Desktop\SP1\SistemskoProgramiranje1\SistemskoProgramiranje1\bin\Debug\net7.0\SistemskoProgramiranje1.pdb
+C:\Users\savic\OneDrive\Desktop\SP1\SistemskoProgramiranje1\SistemskoProgramiranje1\obj\Debug\net7.0\SistemskoProgramiranje1.csproj.AssemblyReference.cache
+C:\Users\savic\OneDrive\Desktop\SP1\SistemskoProgramiranje1\SistemskoProgramiranje1\obj\Debug\net7.0\SistemskoProgramiranje1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savic\OneDrive\Desktop\SP1\SistemskoProgramiranje1\SistemskoProgramiranje1\obj\Debug\net7.0\SistemskoProgramiranje1.AssemblyInfoInputs.cache
+C:\Users\savic\OneDrive\Desktop\SP1\SistemskoProgramiranje1\SistemskoProgramiranje1\obj\Debug\net7.0\SistemskoProgramiranje1.AssemblyInfo.cs
+C:\Users\savic\OneDrive\Desktop\SP1\SistemskoProgramiranje1\SistemskoProgramiranje1\obj\Debug\net7.0\SistemskoProgramiranje1.csproj.CoreCompileInputs.cache
+C:\Users\savic\OneDrive\Desktop\SP1\SistemskoProgramiranje1\SistemskoProgramiranje1\obj\Debug\net7.0\SistemskoProgramiranje1.dll
+C:\Users\savic\OneDrive\Desktop\SP1\SistemskoProgramiranje1\SistemskoProgramiranje1\obj\Debug\net7.0\refint\SistemskoProgramiranje1.dll
+C:\Users\savic\OneDrive\Desktop\SP1\SistemskoProgramiranje1\SistemskoProgramiranje1\obj\Debug\net7.0\SistemskoProgramiranje1.pdb
+C:\Users\savic\OneDrive\Desktop\SP1\SistemskoProgramiranje1\SistemskoProgramiranje1\obj\Debug\net7.0\SistemskoProgramiranje1.genruntimeconfig.cache
+C:\Users\savic\OneDrive\Desktop\SP1\SistemskoProgramiranje1\SistemskoProgramiranje1\obj\Debug\net7.0\ref\SistemskoProgramiranje1.dll
