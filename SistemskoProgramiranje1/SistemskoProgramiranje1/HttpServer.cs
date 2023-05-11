@@ -27,14 +27,19 @@ public class HttpServer
             var rawUrl = request.RawUrl;
             
             string responseData = null;
-
-            if (cache.Contains(rawUrl))
+            Boolean readSuccess = false;
+            lock (lockObj)
             {
-                responseData = (string)cache.Get(rawUrl);
-                response.StatusCode = (int)HttpStatusCode.OK;
-                SendResponse(responseData, response);
-            }   
-            else
+                if (cache.Contains(rawUrl))
+                {
+                    responseData = (string)cache.Get(rawUrl);
+                    response.StatusCode = (int)HttpStatusCode.OK;
+                    SendResponse(responseData, response);
+                    readSuccess = true;
+                }
+            }
+
+            if (!readSuccess)
             {
                 ThreadPool.QueueUserWorkItem(state =>
                 {
