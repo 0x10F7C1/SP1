@@ -7,7 +7,7 @@ using System.Diagnostics;
 
 namespace Projekat;
 
-public class HttpServer
+public class HttpServerThreadPool
 {
     private static MemoryCache cache = MemoryCache.Default;
     private static HttpListener listener = new HttpListener();

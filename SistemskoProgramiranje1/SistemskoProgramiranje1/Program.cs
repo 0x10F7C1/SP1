@@ -7,12 +7,14 @@ using System.Text.Json.Nodes;
 using System.Web;
 using System.Xml.XPath;
 using System.Diagnostics;
+using SistemskoProgramiranje1;
 
 namespace Projekat;
 public class MainEntry
 {
     static void Main(String[] args)
     {
-        HttpServer.Run();
+        //HttpServerThread.Run();
+        HttpServerThreadPool.Run();
     }
 }
