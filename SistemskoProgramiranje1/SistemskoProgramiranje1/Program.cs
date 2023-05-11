@@ -1,31 +1,18 @@
-﻿
+﻿using System.Runtime.Caching;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 using System.Net;
 using System.Runtime.CompilerServices;
+using System.Text.Json.Nodes;
 using System.Web;
+using System.Xml.XPath;
+using System.Diagnostics;
 
 namespace Projekat;
-
-
-public static class HttpServer
+public class MainEntry
 {
-    static async Task Main(String[] args)
+    static void Main(String[] args)
     {
-        var listener = new HttpListener();
-        //listener.Prefixes.Add("https://127.0.0.1:8080/");
-        listener.Prefixes.Add("http://127.0.0.1:8080/");
-        listener.Start();
-
-        while (listener.IsListening)
-        {
-            var context = listener.GetContext();
-
-            new Thread(() =>
-            {
-                
-                Console.WriteLine("OK");
-            }).Start();
-            
-        }
-        
+        HttpServer.Run();
     }
 }
